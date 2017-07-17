@@ -9,7 +9,7 @@ Inspired by computer terminals in sci-fi movies of the 70s and 80s.
 <img src="https://raw.githubusercontent.com/pappkamerad/nostromo-theme-sublime/master/assets/screenshot_main.png"/>
 
 ### Install via Package Control
-If you are using [Package Control](https://packagecontrol.io/), you can install the theme via the `Package Control: Install Package` menu item. <br>Find it as `Nostromo Theme` in the packages list.
+If you are using [Package Control](https://packagecontrol.io/), you can install the theme via the `Package Control: Install Package` menu item. <br>Find it as `Nostromo Color Scheme` in the packages list.
 
 ### Install manually
 1. Download the theme
@@ -17,10 +17,10 @@ If you are using [Package Control](https://packagecontrol.io/), you can install 
 	* Or manually: [Download .zip package](https://github.com/pappkamerad/nostromo-theme-sublime/archive/master.zip) from GitHub.
 2. Copy to the **Sublime Text** packages folder. 
 	* Find your Packages directory using the menu item `Preferences -> Browse Packages...`.
-	* Create a folder called `Nostromo Theme`.
+	* Create a folder called `Nostromo Color Scheme`.
 	* Copy the downloaded (unzipped) files into this folder.
 3. Activate the theme
-	* Go to `Preferences -> Color Scheme` and select `Nostromo Theme`.
+	* Go to `Preferences -> Color Scheme` and select `Nostromo Color Scheme`.
 
 ## Color Palette
 
