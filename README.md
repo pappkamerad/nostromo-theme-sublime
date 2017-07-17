@@ -1,41 +1,26 @@
-<p align="center"><img src="https://raw.githubusercontent.com/pappkamerad/nostromo-theme-visual-studio-code/master/assets/icon.png"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/pappkamerad/nostromo-theme-sublime/master/assets/icon.png"/></p>
 
-# Nostromo Theme (for Jetbrains IDEs)
+# Nostromo Theme (for Sublime Text)
 
 A retro sci-fi color theme. 
 
 Inspired by computer terminals in sci-fi movies of the 70s and 80s.
 
-> **NOTE**: This theme works with all the Jetbrains IDEs (IntelliJ, WebStorm, Android Studio, Rider, PhpStorm, PyCharm, etc.)
+<img src="https://raw.githubusercontent.com/pappkamerad/nostromo-theme-sublime/master/assets/screenshot_main.png"/>
 
-<img src="https://raw.githubusercontent.com/pappkamerad/nostromo-theme-jetbrains/master/assets/screenshot_main.png"/>
+### Install via Package Control
+If you are using [Package Control](https://packagecontrol.io/), you can install the theme via the `Package Control: Install Package` menu item. <br>Find it as `Nostromo Theme` in the packages list.
 
-### Installation
+### Install manually
 1. Download the theme
-	* Using Git: `git clone https://github.com/pappkamerad/nostromo-theme-jetbrains.git`.
-	* Or manually: [Download .zip package](https://github.com/pappkamerad/nostromo-theme-jetbrains/archive/master.zip) from GitHub.
-2. Copy to the IDEs extension folder
-	* Windows:
-		* Create a folder called `colors` inside  `C:/Users/{you}/.{NameOfIDE}/config/.`
-		* Copy the `./theme/Nostromo.icls` file to the `C:/Users/{you}/.{NameOfIDE}/config/colors/` directory on your local machine.
-	* Linux/Mac:
-		* Create a folder called `colors` inside `~/.{NameOfIDE}/config/`.
-		* Copy the `./theme/Nostromo.icls` file to the `~/.{NameOfIDE}/config/colors/` directory on your local machine.
+	* Using Git: `git clone https://github.com/pappkamerad/nostromo-theme-sublime.git`.
+	* Or manually: [Download .zip package](https://github.com/pappkamerad/nostromo-theme-sublime/archive/master.zip) from GitHub.
+2. Copy to the **Sublime Text** packages folder. 
+	* Find your Packages directory using the menu item `Preferences -> Browse Packages...`.
+	* Create a folder called `Nostromo Theme`.
+	* Copy the downloaded (unzipped) files into this folder.
 3. Activate the theme
-	* Close and re-open the IDE.
-	* Go to `Settings -> Editor -> Colors & Fonts`.
-	* Select `Nostromo` from the dropdown menu.
-	* Click the `Ok` button to activate the color scheme.
-
-## Screenshots
-#### AndroidStudio (Dark UI) - XML files
-<img src="https://raw.githubusercontent.com/pappkamerad/nostromo-theme-jetbrains/master/assets/screenshot_androidstudio_xml.png"/>
-
-#### WebStrom (Light UI) - CSS files
-<img src="https://raw.githubusercontent.com/pappkamerad/nostromo-theme-jetbrains/master/assets/screenshot_webstorm_css.png"/>
-
-#### WebStrom (Light UI) - Javascript files
-<img src="https://raw.githubusercontent.com/pappkamerad/nostromo-theme-jetbrains/master/assets/screenshot_webstorm_js.png"/>
+	* Go to `Preferences -> Color Scheme` and select `Nostromo Theme`.
 
 ## Color Palette
 
@@ -72,6 +57,8 @@ BG_Accent_Ui | `#537a92` | `83, 122, 146`  | ui accent dark
 
 The Nostromo theme is also available for:
 * [Visual Studio Code](https://github.com/pappkamerad/nostromo-theme-visual-studio-code)
+* [Jetbrains IDEs](https://github.com/pappkamerad/nostromo-theme-jetbrains)
+
 
 ## Credits
 
@@ -80,5 +67,7 @@ The Nostromo theme is also available for:
 © Martin Theimer
 
 <a href="http://www.apache.org/licenses/LICENSE-2.0"><img src="https://img.shields.io/badge/License-Apache_2.0-5E81AC.svg"/></a>
+
+
 
 
